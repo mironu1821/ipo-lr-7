@@ -1,4 +1,5 @@
 #кешко маргарита
+print("start code...")
 import json
 def main():
     try:
@@ -27,3 +28,4 @@ def main():
             print(f"{code} >> {name}")
     else:
         print("===================== Не найдено =================")
+print("end code...")
