@@ -1,4 +1,5 @@
 #кешко маргарита
+print("start code...")
 books = [
     {"title": "Дверь в лето", "author": "Роберт Хайнлайн", "year": 1956},
     {"title": "Джейн Эйр", "author": "Шарлотта Бронте", "year": 1847},
@@ -10,3 +11,4 @@ for i, book in enumerate(books, 1):
     print(f"Книга {i}")
     print(f"Название: {book['title']}, Автор: {book['author']},")
     print(f"---{book['year']}---\n")#выводим на консоль 
+print("end code...")
