@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Москва",
+    "country": "Россия",
+    "is_big": true,
+    "people_count": 12600000
+  },
+  {
+    "id": 2,
+    "name": "Санкт-Петербург",
+    "country": "Россия",
+    "is_big": true,
+    "people_count": 5400000
+  },
+  {
+    "id": 3,
+    "name": "Новосибирск",
+    "country": "Россия",
+    "is_big": true,
+    "people_count": 1600000
+  },
+  {
+    "id": 4,
+    "name": "Воронеж",
+    "country": "Россия",
+    "is_big": true,
+    "people_count": 1100000
+  },
+  {
+    "id": 5,
+    "name": "Смоленск",
+    "country": "Россия",
+    "is_big": false,
+    "people_count": 320000
+  }
+]
